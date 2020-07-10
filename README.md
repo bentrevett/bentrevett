@@ -2,4 +2,4 @@ I am currently working on a bunch of PyTorch tutorials. So far I have ones for [
 
 Other projects I have been working on are [Glyphs of Dialogue](https://github.com/bentrevett/glyphs-of-dialogue) and a PyTorch implementation of [Recurrent Models of Visual Attention](https://github.com/bentrevett/recurrent-attention-model). 
 
-I'm interested in collaborating on implementing some reinforcement learning papers. Contact me on [twitter](https://twitter.com/ben_trevett) if you're interested.
+I'm looking to collaborate on implementing some reinforcement learning papers. Contact me on [twitter](https://twitter.com/ben_trevett) if you're interested.
